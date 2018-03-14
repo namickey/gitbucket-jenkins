@@ -10,3 +10,6 @@
 ![連携設定3](img/3.png)
 ![連携設定4](img/4.png)
 ![連携設定5](img/5.png)
+
+## Gitbucket Service Hooks
+![連携設定6](img/6.png)
