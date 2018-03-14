@@ -1,5 +1,9 @@
 # gitbucket-jenkins
 
+参考サイト  
+gitbucketとjenkinsをGitHubPullRequestBuilderを使って連携する  
+https://qiita.com/hikaruworld@github/items/ae2cdc1904d7d35ef0b8  
+
 ## プラグインの管理
 ![連携設定1](img/1.png)
 
