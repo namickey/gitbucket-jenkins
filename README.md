@@ -1,8 +1,13 @@
 # gitbucket-jenkins
 
-参考サイト  
+## 参考サイト  
 gitbucketとjenkinsをGitHubPullRequestBuilderを使って連携する  
 https://qiita.com/hikaruworld@github/items/ae2cdc1904d7d35ef0b8  
+
+## 環境
+同一サーバ、同一ポートで、gitbucketとjenkinsが起動している状態。  
+* 172.17.0.2:8080/gitbucket  
+* 172.17.0.2:8080/jenkins  
 
 ## プラグインの管理
 ![連携設定1](img/1.png)
